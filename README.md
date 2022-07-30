@@ -8,7 +8,7 @@ After learning HTML and struggling with CSS, I came up with a brilliant idea of 
 
 But now, I've been coding in React.js, React Native, Next.js Node.js, Angular.js, Solidity, Thirdweb, Express, MongoDB, MySQL, Bootstrap, Tailwind, PHP, programmings language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.
 
-I have got real life projects Development Expecially Frontend Development in Digital Laboratory Myanmar Company Ltd.
+I could improve my Frontend Development skills in Digital Laboratory Myanmar Company Ltd.
 
 Now I m currently working as a Junior Developer who is responsible for building websites with Angular.js and Spring boot.
 
