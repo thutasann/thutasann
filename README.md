@@ -1,7 +1,5 @@
 ## Hi I am Thuta Sann 👋
 
-![Thuta Sann](https://avatars.githubusercontent.com/u/66902308?v=4)
-
 ### I'm a Web developer that loves building Angular, NEXTJS and WEB3.0 apps. :globe_with_meridians:
 
 I've been developing websites since I was 18 years old. I started my web development career with HTML, CSS and PHP. and After PHP, I've learnt Laravel web Framework.
