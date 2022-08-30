@@ -10,6 +10,6 @@ But now, I've been coding in React.js, React Native, Next.js Node.js, Angular.js
 
 I could improve my Frontend Development skills in Digital Laboratory Myanmar Company Ltd.
 
-Now I m currently working as a Junior Developer who is responsible for building websites with Angular.js and Spring boot.
+Now I m currently working as a Junior Developer who is responsible for building complex transactional Web-based applications with Angular.js and Spring boot (a little).
 
 View my projects here [Thuta's Projects](https://thutasann.vercel.app/projects/).
