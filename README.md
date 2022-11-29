@@ -10,6 +10,6 @@ But now, I've been coding in React.js, React Native, Next.js, Nest.js MongoDB, M
 
 Now, I am currently exploring Swift Programming Language as a IOS Development & Spring Boot Framework as a Backend Development for Microservices.
 
-Now I m currently working as a Frontned Developer who is responsible for Website Development and PWA Development with ReactJS and NextJS at [Codigo - The Mobile App Company] (https://www.codigo.co/).
+Now I m currently working as a Frontned Developer who is responsible for Website Development and PWA Development with ReactJS and NextJS at [Codigo - The Mobile App Company](https://www.codigo.co/).
 
 View my projects here [Thuta's Projects](https://thutasann.vercel.app/projects/).
