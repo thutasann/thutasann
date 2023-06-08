@@ -1,6 +1,6 @@
 ## Hi I'm Thuta Sann 👋
 
-### I'm a Web developer that loves building NEXT.JS, Angular/SpringBoot, and IOS Mobile apps. :globe_with_meridians:
+### I'm a Web developer that loves building NEXTJS, MERN-Stack App, and Hybrid Mobile apps. :globe_with_meridians:
 
 I started my web development career with HTML, CSS and PHP. and After PHP, I've learnt Laravel web Framework.
 
