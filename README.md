@@ -25,5 +25,5 @@ I'm Thuta Sann, As a skilled Fullstack developer, I am dedicated to turning idea
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thuta-sann-3508a7199/)
-[![Website](https://img.shields.io/badge/Website-yourwebsite.com-ff8b00?style=flat-square&logo=google-chrome)](https://thutadev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/thutasann-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thuta-sann-3508a7199/)
+[![Website](https://img.shields.io/badge/thutadev-ff8b00?style=flat-square&logo=google-chrome)](https://thutadev.vercel.app/)
