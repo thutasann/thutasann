@@ -1,13 +1,29 @@
-## Hi I'm Thuta Sann 👋
+## Hi there! 👋
 
-### I'm a Web developer that loves building NEXTJS, MERN-Stack App, and Hybrid Mobile apps. :globe_with_meridians:
+I'm Thuta Sann, As a skilled Fullstack developer, I am dedicated to turning ideas into innovative web applications. Explore my latest projects and articles, showcasing my expertise in Reactjs, Nestjs, Nextjs and MERN Stack.  💻🏔️📚
 
-I started my web development career with HTML, CSS and PHP. and After PHP, I've learnt Laravel web Framework.
+- 🌱  Learning new technologies and frameworks.
+- ⚡  Fun fact: I love cooking with new recipes in the kitchen. 🍳🍲
+- 📫  Reach me at: thutasann2002@gmail.com 
+- 💼  Working as Frontend Developer  at [Codigo](https://www.codigo.co/)
 
-After learning HTML and struggling with CSS, I came up with a brilliant idea of using Bootstrap and Tailwind so that I don't have to style everything by myself and - for obvious reasons - if you knew Tailwind, you were cool. :alien:
 
-But now, I've been coding in React.js, React Native, Next.js, Nest.js MongoDB, MySQL, Bootstrap, Tailwind, PHP, programmings language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.
+## 🚀 Currently working on cool projects using:
 
-Now, I am currently exploring MERN Stack as Full Stack Development and ReactNative as Mobile App Development while Exploring deeply to NextJs.
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| --- | --- | --- | --- | --- |
 
-I m now working as a Frontned Developer who is responsible for Website Development and PWA Development with ReactJS and NextJS at [Codigo - The Mobile App Company](https://www.codigo.co/).
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| --- | --- | --- | --- | --- |
+
+
+
+![Thuta Sann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thutasann&show_icons=true&count_private=true&theme=radical)
+
+![Thuta Sann's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thutasann&layout=compact&theme=radical)
+
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thuta-sann-3508a7199/)
+[![Website](https://img.shields.io/badge/Website-yourwebsite.com-ff8b00?style=flat-square&logo=google-chrome)](https://thutadev.vercel.app/)
