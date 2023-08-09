@@ -22,8 +22,6 @@ As a skilled Fullstack developer, I am dedicated to turning ideas into innovativ
 
 ![Thuta Sann's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thutasann&layout=compact&theme=radical)
 
-[![Thuta Sann's GitHub Streak](https://streak-stats.demolab.com?user=thutasann)](https://git.io/streak-stats)
-
 
 ## 📨 Connect with me
 
