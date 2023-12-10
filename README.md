@@ -5,7 +5,7 @@ As a skilled Fullstack developer, I am dedicated to turning ideas into innovativ
 - 🌱  Learning new technologies and frameworks.
 - ⚡ Fun fact: I love cooking with new recipes in the kitchen. 🍳🍲
 - 📫  Reach me at: thutasann2002@gmail.com 
-- 💼  Working as Frontend Developer  at [Codigo](https://www.codigo.co/)
+- 💼  Working as Software Developer  at [Genesiv](https://genesiv.com/)
 
 
 ## 🚀 Currently working on cool projects using:
