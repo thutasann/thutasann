@@ -24,8 +24,6 @@ As a skilled Fullstack developer, I am dedicated to turning ideas into innovativ
 
 [![Thuta Sann's GitHub Streak](https://streak-stats.demolab.com?user=thutasann)](https://git.io/streak-stats)
 
-[![Thuta Sann's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thutasann&theme=radical&layout=compact)](https://github.com/thutasann/thutasann)
-
 
 ## 📨 Connect with me
 
