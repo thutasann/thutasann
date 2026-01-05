@@ -5,7 +5,7 @@ As a skilled Fullstack developer, I am dedicated to turning ideas into innovativ
 - 🌱  Learning new technologies and frameworks.
 - ⚡ Fun fact: I love cooking with new recipes. 🍳🍲
 - 📫  Reach me at: thutasann2002@gmail.com 
-- 💼  Working as Software Developer  at [Genesiv](https://genesiv.com/)
+- 💼  Working as Lead Software Developer  at [Returning.AI](https://returning.ai/)
 
 
 ## 🚀 Currently working on cool projects using:
@@ -26,7 +26,7 @@ As a skilled Fullstack developer, I am dedicated to turning ideas into innovativ
 
 ![Thuta Sann's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thutasann&layout=compact&theme=radical)
 
-[![Thuta Sann's GitHub Streak](https://streak-stats.demolab.com?user=thutasann&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thutasann)](https://git.io/streak-stats)
 
 [![Thuta Sann's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thutasann&theme=radical&layout=compact)](https://github.com/thutasann/thutasann)
 
