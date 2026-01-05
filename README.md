@@ -20,15 +20,7 @@ As a skilled Fullstack developer, I am dedicated to turning ideas into innovativ
 
 [![wakatime](https://wakatime.com/badge/user/018d4faa-a2d7-4e6a-ade0-9a52c6953d23.svg)](https://wakatime.com/@018d4faa-a2d7-4e6a-ade0-9a52c6953d23)
 
-![Thuta Sann's Github Trophies](https://github-profile-trophy.vercel.app/?username=thutasann&row=1&column=6&theme=radical&margin-w=10)
-
-![Thuta Sann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thutasann&show_icons=true&count_private=true&theme=radical)
-
-![Thuta Sann's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thutasann&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thutasann)](https://git.io/streak-stats)
-
-[![Thuta Sann's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thutasann&theme=radical&layout=compact)](https://github.com/thutasann/thutasann)
+[![Thuta Sann's GitHub Streak](https://streak-stats.demolab.com?user=thutasann&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 ## 📨 Connect with me
